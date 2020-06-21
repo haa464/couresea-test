@@ -1,0 +1,50 @@
+
+.nav-link{
+    text-align: center;
+}
+
+.visible {
+	visibility: visible - md !important;
+  }
+
+*{
+    font-size: 23px;
+
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ div.inner_element{
+     font-family: Gabriola;
+     text-align: center;
+     font-size: 27px;
+     font-weight: bolder;
+     position: absolute;
+     width: 100px;
+     top: 0px;
+     right: 0px;
+     border: 1px solid black;
+     padding:5px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     height: 30px; 
+     color: white;
+}
+
+section.col-dd-3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    padding: 21px;
+    margin: 10px ;
+    background-color: aqua;
+
+}
+p{
+    color: red;
+}
+
+
+
+
